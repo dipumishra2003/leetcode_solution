@@ -37,4 +37,16 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

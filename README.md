@@ -14,6 +14,7 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
+| [1054-complement-of-base-10-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |

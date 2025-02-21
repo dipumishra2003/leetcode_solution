@@ -10,6 +10,7 @@ Repository for leetcode solutions.
 | [0009-palindrome-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +57,12 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

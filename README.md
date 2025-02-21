@@ -14,6 +14,7 @@ Repository for leetcode solutions.
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/dipumishra2003/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ Repository for leetcode solutions.
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/dipumishra2003/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |

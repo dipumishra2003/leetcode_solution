@@ -15,4 +15,12 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

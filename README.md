@@ -72,13 +72,20 @@ Repository for leetcode solutions.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dipumishra2003/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipumishra2003/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dipumishra2003/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipumishra2003/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dipumishra2003/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipumishra2003/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/dipumishra2003/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->

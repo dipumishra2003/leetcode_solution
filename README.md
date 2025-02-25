@@ -29,15 +29,18 @@ Repository for leetcode solutions.
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,4 +101,13 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->

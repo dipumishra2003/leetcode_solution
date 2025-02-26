@@ -27,6 +27,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/dipumishra2003/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -52,6 +53,7 @@ Repository for leetcode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dipumishra2003/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
@@ -110,4 +112,8 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dipumishra2003/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

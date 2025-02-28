@@ -26,6 +26,7 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/dipumishra2003/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/dipumishra2003/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -41,6 +42,7 @@ Repository for leetcode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dipumishra2003/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)

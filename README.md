@@ -34,6 +34,7 @@ Repository for leetcode solutions.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dipumishra2003/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -73,6 +74,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Brainteaser
@@ -131,5 +133,6 @@ Repository for leetcode solutions.
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->

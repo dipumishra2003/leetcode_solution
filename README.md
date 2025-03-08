@@ -133,6 +133,7 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dipumishra2003/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Union Find
 |  |
 | ------- |
@@ -146,4 +147,8 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/dipumishra2003/leetcode_solution/tree/master/2610-closest-prime-numbers-in-range) |
+## String
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dipumishra2003/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->

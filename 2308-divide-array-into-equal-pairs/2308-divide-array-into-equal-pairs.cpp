@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        int n = nums.size();
-        unordered_map<int, int> freq;
-
-        for(int i=0; i<n; i++){
-            freq[nums[i]]++;
+       sort(nums.begin(),nums.end());
+       for(int i=0;i<nums.size();i+=2)
+       {
+        if(nums[i]!=nums[i+1])
+        {
+            return false;
         }
-        for(int i=0; i<freq.size(); i++){
-            if(freq[i] % 2 != 0) return false;
-        }
-
-        return true;
+       }
+       return true;
     }
 };

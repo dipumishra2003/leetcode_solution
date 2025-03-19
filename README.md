@@ -61,6 +61,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0056-merge-intervals](https://github.com/dipumishra2003/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
@@ -77,6 +78,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dipumishra2003/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dipumishra2003/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -163,6 +165,7 @@ Repository for leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dipumishra2003/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dipumishra2003/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |

@@ -44,6 +44,7 @@ Repository for leetcode solutions.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dipumishra2003/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
@@ -91,6 +92,7 @@ Repository for leetcode solutions.
 | [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dipumishra2003/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -182,6 +184,7 @@ Repository for leetcode solutions.
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dipumishra2003/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dipumishra2003/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
@@ -209,5 +212,10 @@ Repository for leetcode solutions.
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dipumishra2003/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

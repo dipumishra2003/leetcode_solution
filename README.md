@@ -51,6 +51,7 @@ Repository for leetcode solutions.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/dipumishra2003/leetcode_solution/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/dipumishra2003/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dipumishra2003/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/dipumishra2003/leetcode_solution/tree/master/3430-count-days-without-meetings) |
@@ -74,6 +75,7 @@ Repository for leetcode solutions.
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/dipumishra2003/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/dipumishra2003/leetcode_solution/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
@@ -97,6 +99,7 @@ Repository for leetcode solutions.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/dipumishra2003/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Linked List

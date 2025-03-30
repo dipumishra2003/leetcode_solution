@@ -95,6 +95,7 @@ Repository for leetcode solutions.
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dipumishra2003/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -112,6 +113,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -161,6 +163,7 @@ Repository for leetcode solutions.
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -189,6 +192,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dipumishra2003/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dipumishra2003/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

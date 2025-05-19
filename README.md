@@ -9,6 +9,7 @@ Repository for leetcode solutions.
 | [0007-reverse-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dipumishra2003/leetcode_solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
 | [1500-count-largest-group](https://github.com/dipumishra2003/leetcode_solution/tree/master/1500-count-largest-group) |
@@ -63,6 +64,7 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dipumishra2003/leetcode_solution/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dipumishra2003/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |

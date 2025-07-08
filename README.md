@@ -46,6 +46,7 @@ Repository for leetcode solutions.
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/dipumishra2003/leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/dipumishra2003/leetcode_solution/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dipumishra2003/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -75,6 +76,7 @@ Repository for leetcode solutions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/dipumishra2003/leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dipumishra2003/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |

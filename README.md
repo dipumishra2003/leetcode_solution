@@ -37,6 +37,7 @@ Repository for leetcode solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dipumishra2003/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
@@ -134,6 +135,7 @@ Repository for leetcode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipumishra2003/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -152,6 +154,7 @@ Repository for leetcode solutions.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipumishra2003/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -175,6 +178,7 @@ Repository for leetcode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dipumishra2003/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dipumishra2003/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -258,4 +262,8 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dipumishra2003/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

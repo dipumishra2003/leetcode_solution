@@ -181,6 +181,7 @@ Repository for leetcode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dipumishra2003/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -221,6 +222,7 @@ Repository for leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
@@ -283,4 +285,8 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void per(vector<int>& nums, vector<vector<int>>& res, vector<int> temp, vector<bool>visited){
+    void per(vector<int>& nums, vector<vector<int>>& res, vector<int> temp, vector<bool>& visited){
         if(temp.size()==nums.size()){
             res.push_back(temp);
             return;

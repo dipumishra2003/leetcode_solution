@@ -38,6 +38,7 @@ Repository for leetcode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/dipumishra2003/leetcode_solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dipumishra2003/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
@@ -289,4 +290,5 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/dipumishra2003/leetcode_solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

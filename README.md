@@ -39,6 +39,7 @@ Repository for leetcode solutions.
 | [0035-search-insert-position](https://github.com/dipumishra2003/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dipumishra2003/leetcode_solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dipumishra2003/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
@@ -92,6 +93,7 @@ Repository for leetcode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dipumishra2003/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0088-merge-sorted-array) |
@@ -291,4 +293,5 @@ Repository for leetcode solutions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/dipumishra2003/leetcode_solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

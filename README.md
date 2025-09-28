@@ -13,6 +13,7 @@ Repository for leetcode solutions.
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
 | [0830-largest-triangle-area](https://github.com/dipumishra2003/leetcode_solution/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/dipumishra2003/leetcode_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/dipumishra2003/leetcode_solution/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dipumishra2003/leetcode_solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -55,6 +56,7 @@ Repository for leetcode solutions.
 | [0882-peak-index-in-a-mountain-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/dipumishra2003/leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/dipumishra2003/leetcode_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/dipumishra2003/leetcode_solution/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dipumishra2003/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -104,6 +106,7 @@ Repository for leetcode solutions.
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/dipumishra2003/leetcode_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dipumishra2003/leetcode_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dipumishra2003/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -202,6 +205,7 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
+| [1018-largest-perimeter-triangle](https://github.com/dipumishra2003/leetcode_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |

@@ -8,6 +8,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0007-reverse-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/dipumishra2003/leetcode_solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dipumishra2003/leetcode_solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
@@ -32,6 +33,7 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dipumishra2003/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/dipumishra2003/leetcode_solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 ## Array
 |  |

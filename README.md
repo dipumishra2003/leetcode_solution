@@ -12,6 +12,7 @@ Repository for leetcode solutions.
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dipumishra2003/leetcode_solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
 | [0830-largest-triangle-area](https://github.com/dipumishra2003/leetcode_solution/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/dipumishra2003/leetcode_solution/tree/master/1018-largest-perimeter-triangle) |

@@ -22,6 +22,7 @@ Repository for leetcode solutions.
 | [2610-closest-prime-numbers-in-range](https://github.com/dipumishra2003/leetcode_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dipumishra2003/leetcode_solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/3336-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Repository for leetcode solutions.
 | [1642-water-bottles](https://github.com/dipumishra2003/leetcode_solution/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
+| [3336-water-bottles-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/3336-water-bottles-ii) |
 ## Number Theory
 |  |
 | ------- |

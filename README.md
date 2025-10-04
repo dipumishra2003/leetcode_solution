@@ -16,6 +16,7 @@ Repository for leetcode solutions.
 | [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
 | [0830-largest-triangle-area](https://github.com/dipumishra2003/leetcode_solution/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/dipumishra2003/leetcode_solution/tree/master/1018-largest-perimeter-triangle) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dipumishra2003/leetcode_solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/dipumishra2003/leetcode_solution/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/dipumishra2003/leetcode_solution/tree/master/1642-water-bottles) |
@@ -29,6 +30,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/1054-complement-of-base-10-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dipumishra2003/leetcode_solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/dipumishra2003/leetcode_solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dipumishra2003/leetcode_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

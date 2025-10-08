@@ -161,6 +161,7 @@ Repository for leetcode solutions.
 | [0011-container-with-most-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dipumishra2003/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipumishra2003/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/dipumishra2003/leetcode_solution/tree/master/0344-reverse-string) |
@@ -251,6 +252,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/dipumishra2003/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dipumishra2003/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dipumishra2003/leetcode_solution/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |

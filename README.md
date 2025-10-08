@@ -75,6 +75,7 @@ Repository for leetcode solutions.
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dipumishra2003/leetcode_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/dipumishra2003/leetcode_solution/tree/master/2690-house-robber-iv) |
@@ -101,6 +102,7 @@ Repository for leetcode solutions.
 | [1646-kth-missing-positive-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dipumishra2003/leetcode_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dipumishra2003/leetcode_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/dipumishra2003/leetcode_solution/tree/master/2690-house-robber-iv) |
 ## Sorting
@@ -117,6 +119,7 @@ Repository for leetcode solutions.
 | [1018-largest-perimeter-triangle](https://github.com/dipumishra2003/leetcode_solution/tree/master/1018-largest-perimeter-triangle) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dipumishra2003/leetcode_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dipumishra2003/leetcode_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/dipumishra2003/leetcode_solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/dipumishra2003/leetcode_solution/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
@@ -162,6 +165,7 @@ Repository for leetcode solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipumishra2003/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/dipumishra2003/leetcode_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dipumishra2003/leetcode_solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Brainteaser

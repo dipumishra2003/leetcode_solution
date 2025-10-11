@@ -1,10 +1,16 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
-
-        if(s == t) return true;
-        return false;
+        vector<int> mp(26,0);
+        int n=s.size();
+        if(n != t.size()) return false;
+        for(int i=0; i<n; i++){
+            mp[s[i]-'a']++;
+        }
+        for(int i=0; i<n; i++){
+            if(!mp[t[i]-'a']) return false;
+            mp[t[i]-'a']--;
+        }
+        return true;
     }
 };

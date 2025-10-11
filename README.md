@@ -60,6 +60,7 @@ Repository for leetcode solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipumishra2003/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0792-binary-search](https://github.com/dipumishra2003/leetcode_solution/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/dipumishra2003/leetcode_solution/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/dipumishra2003/leetcode_solution/tree/master/0907-koko-eating-bananas) |
@@ -96,6 +97,7 @@ Repository for leetcode solutions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipumishra2003/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0792-binary-search](https://github.com/dipumishra2003/leetcode_solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/dipumishra2003/leetcode_solution/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dipumishra2003/leetcode_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |

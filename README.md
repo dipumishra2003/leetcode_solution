@@ -11,6 +11,7 @@ Repository for leetcode solutions.
 | [0050-powx-n](https://github.com/dipumishra2003/leetcode_solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dipumishra2003/leetcode_solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/0263-ugly-number) |
@@ -223,6 +224,7 @@ Repository for leetcode solutions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dipumishra2003/leetcode_solution/tree/master/0198-house-robber) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dipumishra2003/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -343,4 +345,8 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/dipumishra2003/leetcode_solution/tree/master/0830-largest-triangle-area) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

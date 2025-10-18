@@ -11,6 +11,7 @@ Repository for leetcode solutions.
 | [0050-powx-n](https://github.com/dipumishra2003/leetcode_solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dipumishra2003/leetcode_solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dipumishra2003/leetcode_solution/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/dipumishra2003/leetcode_solution/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dipumishra2003/leetcode_solution/tree/master/0292-nim-game) |
@@ -59,6 +60,7 @@ Repository for leetcode solutions.
 | [0128-longest-consecutive-sequence](https://github.com/dipumishra2003/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipumishra2003/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dipumishra2003/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -174,6 +176,7 @@ Repository for leetcode solutions.
 | [0125-valid-palindrome](https://github.com/dipumishra2003/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipumishra2003/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/dipumishra2003/leetcode_solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dipumishra2003/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |

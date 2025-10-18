@@ -66,6 +66,7 @@ Repository for leetcode solutions.
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dipumishra2003/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/dipumishra2003/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/dipumishra2003/leetcode_solution/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/dipumishra2003/leetcode_solution/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -226,6 +227,7 @@ Repository for leetcode solutions.
 | [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dipumishra2003/leetcode_solution/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/0747-min-cost-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dipumishra2003/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dipumishra2003/leetcode_solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |

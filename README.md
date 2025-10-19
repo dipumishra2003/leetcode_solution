@@ -200,6 +200,7 @@ Repository for leetcode solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dipumishra2003/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dipumishra2003/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -273,6 +274,7 @@ Repository for leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dipumishra2003/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dipumishra2003/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dipumishra2003/leetcode_solution/tree/master/0125-valid-palindrome) |

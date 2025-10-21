@@ -81,6 +81,7 @@ Repository for leetcode solutions.
 | [1675-magnetic-force-between-two-balls](https://github.com/dipumishra2003/leetcode_solution/tree/master/1675-magnetic-force-between-two-balls) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dipumishra2003/leetcode_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dipumishra2003/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/dipumishra2003/leetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dipumishra2003/leetcode_solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -264,6 +265,7 @@ Repository for leetcode solutions.
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/dipumishra2003/leetcode_solution/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/dipumishra2003/leetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dipumishra2003/leetcode_solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/3336-water-bottles-ii) |
@@ -282,6 +284,7 @@ Repository for leetcode solutions.
 | [0344-reverse-string](https://github.com/dipumishra2003/leetcode_solution/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/dipumishra2003/leetcode_solution/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dipumishra2003/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/dipumishra2003/leetcode_solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dipumishra2003/leetcode_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dipumishra2003/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dipumishra2003/leetcode_solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |

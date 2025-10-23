@@ -31,6 +31,7 @@ Repository for leetcode solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/dipumishra2003/leetcode_solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dipumishra2003/leetcode_solution/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/dipumishra2003/leetcode_solution/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dipumishra2003/leetcode_solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -297,6 +298,7 @@ Repository for leetcode solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/dipumishra2003/leetcode_solution/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/dipumishra2003/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/dipumishra2003/leetcode_solution/tree/master/0948-sort-an-array) |
 ## Bucket Sort

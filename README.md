@@ -23,6 +23,7 @@ Repository for leetcode solutions.
 | [1500-count-largest-group](https://github.com/dipumishra2003/leetcode_solution/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dipumishra2003/leetcode_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/dipumishra2003/leetcode_solution/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/dipumishra2003/leetcode_solution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dipumishra2003/leetcode_solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dipumishra2003/leetcode_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dipumishra2003/leetcode_solution/tree/master/2649-count-total-number-of-colored-cells) |
